@@ -8,7 +8,8 @@ A **real-time virtual drawing application** that uses **hand gestures** detected
 - 🖐️ **Gesture Recognition with MediaPipe**
   - Track hand landmarks in real-time
   - Recognize gestures like "index-thumb pinch" to draw
-  - Detect "fist" gesture to clear the canvas
+  - with cursor as well as drawing mode (unique no one has done it)
+  - Detect "pinky finger" gesture to clear the canvas
 
 - 🎨 **Virtual Drawing Canvas**
   - Draw using hand gestures without a physical stylus
