@@ -2,6 +2,15 @@
 
 A **real-time virtual drawing application** that uses **hand gestures** detected through the webcam to draw on a digital canvas. Built using **PyQt5**, **OpenCV**, and **MediaPipe**, this project enables touchless interaction for artistic expression, presentations, or accessibility-focused UIs.
 
+---
+
+## 📸 Preview
+
+> *![melson (1)](https://github.com/user-attachments/assets/9b352b5e-028b-4c95-8015-1a5c73d5b236)*
+
+---
+
+
 
 ## 🚀 Features
 
